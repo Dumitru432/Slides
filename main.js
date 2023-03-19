@@ -15,4 +15,4 @@ function clearActiveSlides (){
     })
 }
 
-// modificare 
+// ar trebui sa adaugam si alte imagini 
